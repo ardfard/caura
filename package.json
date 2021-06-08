@@ -1,0 +1,15 @@
+{
+  "name": "caura",
+  "version": "1.0.0",
+  "description": "Data thief",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/ardfard/caura"
+  },
+  "author": "Ardin Fardiansyah",
+  "license": "ISC"
+}
