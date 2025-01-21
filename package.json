@@ -11,5 +11,9 @@
     "url": "github.com/ardfard/caura"
   },
   "author": "Ardin Fardiansyah",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^3.2.0",
+    "axios": "^1.4.0"
+  }
 }
